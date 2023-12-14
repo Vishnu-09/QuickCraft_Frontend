@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-quickcraft-ecommerce.netlify.app
+https://quickcraft-ecommerce.netlify.app/
 
 ## Features
 
