@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+quickcraft-ecommerce.netlify.app
 
 ## Features
 
@@ -13,9 +13,7 @@ https://reactjs-ecommerce-app.vercel.app/
 - Fully Responsive
 
 
-## Screenshots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
 
 
 
@@ -24,13 +22,13 @@ https://reactjs-ecommerce-app.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/Vishnu-09/QuickCraft_Backend.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd submitted
 ```
 
 Install dependencies
