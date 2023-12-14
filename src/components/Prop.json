@@ -1,0 +1,232 @@
+[
+    {
+        "id": 1,
+        "title": "BLOCK LINE WHITE NAVY CHECKS SHIRT",
+        "price": 1199,
+        "description": "Classic meets contemporary in our Block Line White Navy Checks Shirt – a stylish essential for any wardrobe.",
+        "category": "Men's Shirts",
+        "image": "https://www.snitch.co.in/cdn/shop/files/4MSS2502-13-M29.jpg?v=1700739546&width=1800",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "WILDER NAVY SHIRT ",
+        "price": 1299,
+        "description": "Refine your style with our Wilder Navy Shirt – a versatile wardrobe essential for timeless sophistication.",
+        "category": "Men's Shirts",
+        "image": "https://www.snitch.co.in/cdn/shop/files/4MSS2463-04-M31.jpg?v=1700573728&width=1800",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "SPECKLE DOT WHITE SHIRT",
+        "price": 1199,
+        "description": "Elevate your look with our Speckle Dot White Shirt—a stylish blend of classic and contemporary sophistication.",
+        "category": "Men's Shirts",
+        "image": "https://www.snitch.co.in/cdn/shop/files/4MSS2545-02-M27.jpg?v=1700744075&width=1800",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "CLASP STRIPED BLACK SHIRT",
+        "price": 999,
+        "description": "Unleash elegance with our Clasp Striped Black Shirt—bold stripes, sharp design, and timeless sophistication in one.",
+        "category": "Men's Shirts",
+        "image": "https://www.snitch.co.in/cdn/shop/files/4MSS2377-04-M31.webp?v=1699010869&width=1800",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "TRIPLE COLOUR BLOCK LOW TOP SNEAKER",
+        "price": 2190,
+        "description": "Step into style with our Triple Colour Block Low Top Sneaker—vibrant hues, comfort, and trendsetting flair.",
+        "category": "Shoes",
+        "image": "https://www.snitch.co.in/cdn/shop/files/IMG_0702.jpg?v=1694695159&width=1800",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "CONTRAST WHITE LOW TOP SNEAKER",
+        "price": 2190,
+        "description": "Stride in style with our Contrast White Low Top Sneaker—clean, versatile, and effortlessly chic footwear choice.",
+        "category": "Shoes",
+        "image": "https://www.snitch.co.in/cdn/shop/files/IMG_0540.jpg?v=1695038116&width=1800",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "title": "PANELLED WHITE & BLUE LOW TOP SNEAKER",
+        "price": 2190,
+        "description": "Elevate your step with our Panelled White & Blue Low Top Sneaker—a sleek fusion of style and comfort.",
+        "category": "Shoes",
+        "image": "https://www.snitch.co.in/cdn/shop/files/IMG_0854.jpg?v=1695036223&width=1800",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    },
+    {
+        "id": 8,
+        "title": "STRUCTURED BLACK TRAINER",
+        "price": 3490,
+        "description": "Master your workout in our Structured Black Trainer—sleek design, ultimate support, and athletic style combined.",
+        "category": "Shoes",
+        "image": "https://www.snitch.co.in/cdn/shop/files/IMG_0783.jpg?v=1695035289&width=1800",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "title": "Cosmograph Daytona",
+        "price": 2619500,
+        "description": "The Cosmograph Daytona: Timeless elegance, precision performance, and iconic design for the modern discerning individual.",
+        "category": "Watches",
+        "image": "https://content.rolex.com/v7/dam/2023-06/upright-c/m126515ln-0002.png?impolicy=v7&imwidth=1600",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "Rolex Deepsea",
+        "price": 1181200,
+        "description": "Dive into unparalleled luxury with the Rolex Deepsea—precision engineering, robust design, and enduring elegance for adventurers.",
+        "category": "Watches",
+        "image": "https://content.rolex.com/v7/dam/2023-06/upright-c/m136660-0003.png?impolicy=v7&imwidth=1600",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "title": "Sky-Dweller",
+        "price": 1275300,
+        "description": "Elegant and sophisticated, the Sky-Dweller is a luxury timepiece with innovative features, perfect for discerning enthusiasts.",
+        "category": "Watches",
+        "image": "https://content.rolex.com/v7/dam/2023-06/upright-c/m336934-0005.png?impolicy=v7&imwidth=1600",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 12,
+        "title": "Yatch-Master 40",
+        "price": 1001500,
+        "description": "Yacht-Master 40: Nautical luxury, precision timekeeping, and timeless style for the modern adventurer on the seas.",
+        "category": "Watches",
+        "image": "https://content.rolex.com/v7/dam/2023-06/upright-c/m126622-0002.png?impolicy=v7&imwidth=1600",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        }
+    },
+    {
+        "id": 13,
+        "title": "Itachi Uchiha Hoodie",
+        "price": 1199,
+        "description": "Embrace Itachi's legendary aura with this Uchiha hoodie, blending style, comfort, and anime fandom seamlessly.",
+        "category": "Hoodie's",
+        "image": "https://m.media-amazon.com/images/I/81+3g00XzmL._SY741_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 250
+        }
+    },
+    {
+        "id": 14,
+        "title": "Men Typographic Print Regular Fit Hoodie ",
+        "price": 1199,
+        "description": "Elevate casual style with this men's hoodie, featuring a typographic print, regular fit, and ultimate comfort.",
+        "category": "Hoodie's",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20231019/mEOi/6531304cddf7791519494757/-1117Wx1400H-466724774-blue-MODEL.jpg",
+        "rating": {
+            "rate": 2.2,
+            "count": 140
+        }
+    },
+    {
+        "id": 15,
+        "title": "Ora Ora Gojo Satoru Hoodie",
+        "price": 663,
+        "description": "Channel Gojo Satoru's energy in the Ora Ora hoodie, showcasing bold style and anime influence.",
+        "category": "Hoodie's",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20231018/hv4A/652ee12dddf77915194482a4/-1117Wx1400H-466719724-purple-MODEL.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 16,
+        "title": "Death Node L and Kra Hoodie",
+        "price": 1199,
+        "description": "Merge intellect and style with the Death Note L and Kira hoodie, a tribute to anime mastery.",
+        "category": "Hoodie's",
+        "image": "https://m.media-amazon.com/images/I/811mCTEcXxL._SL1500_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 340
+        }
+    },
+    {
+        "id": 17,
+        "title": "BE SAVAGE Oversize Baggy Hoodie ",
+        "price": 697,
+        "description": "Command attention with the BE SAVAGE Oversize Baggy Hoodie, a bold blend of comfort and style.",
+        "category": "Hoodie's",
+        "image": "https://m.media-amazon.com/images/I/612MX+lIaUL._SL1500_.jpg",
+        "rating": {
+            "rate": 3.8,
+            "count": 679
+        }
+    },
+    {
+        "id": 18,
+        "title": " Men's Printed Fleece Hooded Sweatshirt",
+        "price": 899,
+        "description": "Stay cozy and stylish in this men's printed fleece hooded sweatshirt, the perfect blend of comfort and fashion.",
+        "category": "Hoodie's",
+        "image": "https://m.media-amazon.com/images/I/51k-xD7sp5L._SL1500_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 130
+        }
+    },
+    
+   
+    {
+        "id": 19,
+        "title": "BEADED LINE WHITE SHIRT.",
+        "price": 1499,
+        "description": "Sophistication redefined in our Beaded Line White Shirt—a blend of timeless design and contemporary elegance.",
+        "category": "Men's Shirts",
+        "image": "https://www.snitch.co.in/cdn/shop/files/4MSS2595-02-M93.jpg?v=1700296831&width=1800",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    }
+]

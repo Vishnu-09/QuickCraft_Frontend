@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+  }
+  .foot {
+    background-color: #333; /* You can customize the background color */
+    color: #fff; /* You can customize the text color */
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    margin-top: auto; /* Push the footer to the bottom */
+  }
